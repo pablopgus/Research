@@ -3,4 +3,8 @@ This github repository is containing jupyter notebooks with simulations, data pr
 
 ## Published article list:
 ### 2022
-[Oscillation Based Spectroscopy for Cell-Culture Monitorization](FIE2021) -> [FrontiersIn Electronics Online Article](https://www.frontiersin.org/articles/10.3389/felec.2022.836669/full)
+
+Oscillation Based Spectroscopy for Cell-Culture Monitorization  
+P. Pérez, J. A. Serrano-Viseas, S. Fernández-Scagliusi, D. Martín-Fernández, G. Huertas, A. Yúfera.  
+FrontiersIn Electronics. 22 July 2022. Section Bioelectronics, DOI: 10.3389/felec.2022.836669  
+[Article Link](https://www.frontiersin.org/articles/10.3389/felec.2022.836669/full) and [Code](FIE2021) 
